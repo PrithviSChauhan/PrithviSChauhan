@@ -1,5 +1,3 @@
-![MasterHead](https://i.postimg.cc/4yDptpGG/image-1.png)
-
 <h1 align="center">Hi 👋, I'm Prithvi Singh Chauhan</h1>
 <h3 align="center">A Passionate Full-Stack & Mobile App Developer from India</h3>
 
