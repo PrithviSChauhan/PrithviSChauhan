@@ -1,16 +1,70 @@
-## Hi there 👋
+👋 Hi, I'm Prithvi Singh Chauhan
 
-<!--
-**PrithviSChauhan/PrithviSChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A Passionate Full-Stack & Mobile App Developer from India
 
-Here are some ideas to get you started:
+💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 Software Developer focused on building scalable backend systems & real-world applications
+🎓 B.Tech CSE Student at Amity University, Noida \
+💼 Currenty working as Software Engineer Intern @UKG
+💼 Former Software Engineer Intern @InstaPrepsAI
+🌱 Learning: System Design, Cloud (Azure), Performance Optimization
+👯 Looking to collaborate on: Open-source projects & impactful SaaS ideas
+🚀 Built products in domains like productivity apps & job platforms
+
+📫 Connect with Me
+🔗 LinkedIn
+📧 s.prithvichauhan.work@gmail.com
+
+💻 Tech Stack
+🚀 Programming Languages
+
+Java
+JavaScript
+Kotlin
+
+🎨 Frontend Development
+
+React.js
+React Native
+HTML
+CSS
+Tailwind CSS
+Vite
+Expo
+
+⚙ Backend & Databases
+
+Node.js
+Express.js
+REST APIs
+MongoDB
+PostgreSQL
+JDBC
+
+🛠 Tools & DevOps
+
+Git
+GitHub
+GitLab
+Postman
+VS Code
+Azure (Basics)
+
+🧠 Projects
+
+📱 StudyMaster
+→ Student productivity app with session tracking, Redux state management & DND mode
+
+💼 CareerDepott
+→ MERN job portal with JWT auth, RBAC, Cloudinary uploads & real-time job APIs
+
+🏆 Achievements
+
+🥇 1st Place – CSS Flair 2.0 (Amity University)
+🚀 Semi-Finalist – Microsoft Accelerate Hackathon
+💻 Solved 200+ DSA problems (LeetCode & GFG)
+
+✍️ Random Dev Quote
+
+"First solve the problem. Then write the code."
